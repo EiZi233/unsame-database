@@ -41,4 +41,4 @@ This is the official content creation knowledge base for unSAME Studio. For any 
 | :--- | :--- | :--- | :--- |
 | Gulltastrophe (鸥买嘎/海鸥) | 3D action sandbox | Demo — target release 2026 Q3 | PC / Switch |
 | Runway™ (秀台™) | Arcade action | Releasing April 2026 | Steam |
-| PLUG IT IN | Puzzle | Demo — Steam version in development | Steam |
+| PLUG IT IN（插座儿/插线板） | Puzzle | Demo — Steam version in development | Steam |
