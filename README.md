@@ -37,6 +37,6 @@
 
 | 游戏 | 类型 | 当前状态 | 目标平台 |
 | :--- | :--- | :--- | :--- |
-| 鸥买嘎 (Gulltastrophe) | 3D动作沙盒 | Demo阶段，预计2026 Q3发售 | PC / Switch |
+| 鸥买嘎 (Gulltastrophe/海鸥) | 3D动作沙盒 | Demo阶段，预计2026 Q3发售 | PC / Switch |
 | 秀台™ (Runway™) | 街机动作 | 即将发售，预计2026年4月 | Steam |
 | PLUG IT IN | 益智解谜 | Demo阶段，Steam版开发中 | Steam |
