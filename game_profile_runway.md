@@ -1,66 +1,72 @@
-# 游戏档案: Runway™ (秀台™)
+# Game Profile: Runway™ (秀台™)
 
-## 1. 核心身份与理念 (Core Identity & Philosophy)
+## 1. Core Identity
 
-- **游戏名称**: Runway™ (中文名: 秀台™)
-- **一句话概括**: 一款Y2K风格的街机动作游戏，你扮演时尚机器人Lisa，在世界各地的T台上把其他"千篇一律"的模特统统踢下去。
-- **核心体验**: "每次按下按键都很好玩"。体验纯粹、爽快、荒谬、充满黑色幽默的街机乐趣。
-- **Steam页面**: [store.steampowered.com/app/3879500/Runway/](https://store.steampowered.com/app/3879500/Runway/)
-
-### 设计哲学与精神内核
-
-这款游戏本身就是unSAME工作室精神的体现，它的诞生促成了工作室的结成，是工作室历史上最重要的作品之一。
-
-| 理念 | 说明 |
+| Field | Value |
 | :--- | :--- |
-| **独立游戏精神的代表** | unSAME工作室或许正是因为这款游戏而结成的。 |
-| **Be Yourself (做自己)** | 通过玩法表达"不要被条条框框束缚"的思想。所有服装无属性加成，玩家可随心搭配。 |
-| **荒谬与黑色幽默** | 浮夸的服装、大胆的配色、离谱的设定。掉下舞台没有惩罚，反而会加分。 |
-| **Fun (纯粹的乐趣)** | 简单易上手（两个核心按键），让不常玩游戏的人也能享受爽快感。 |
+| **Title (EN)** | Runway™ |
+| **Title (CN)** | 秀台™ |
+| **One-liner (EN)** | A Y2K-style arcade action game — play as fashion robot Lisa and kick every uninspired model off the runway. |
+| **One-liner (CN)** | 一款Y2K风格的街机动作游戏，你扮演时尚机器人Lisa，在世界各地的T台上把其他"千篇一律"的模特统统踢下去。 |
+| **Core experience** | "Every button press feels fun." Pure, satisfying, absurd arcade action. |
+| **Steam page** | [store.steampowered.com/app/3879500/Runway/](https://store.steampowered.com/app/3879500/Runway/) |
 
-## 2. 核心设计与玩法 (In-Game Design & Gameplay)
+## 2. Design Philosophy
 
-### A. 游戏玩法与机制 (Gameplay & Mechanics)
+This game is the spiritual embodiment of unSAME Studio — it may be the reason the studio was formed.
 
-- **核心循环**: 在T台上把其他模特踢下去，成为唯一的焦点。
-- **核心动作**:
-    - **踢击 (A键)**: 强大且令人满意的踢腿连击动作。
-    - **摆Pose (B键)**: 摆出姿势，将周围的模特弹飞。
-- **计分系统**: 一次踢下台的人越多，获得的Combo得分越高。
-- **无惩罚设计**: 掉下舞台不会受罚，鼓励玩家大胆尝试。
-- **上手门槛**: 极为简单，偏向休闲和街机体验，没有复杂的系统。
-
-### B. 游戏特色与内容 (Features & Content)
-
-| 特色 | 说明 |
+| Principle | Detail |
 | :--- | :--- |
-| **主角 Lisa** | 一个专业"走秀踢馆"的机器人。 |
-| **自定义换装** | 超过30种不同的上衣、裤子和帽子，打造你的"OOTD"。 |
-| **全球秀场** | 在巴黎、米兰、纽约、伦敦、深圳、东京等多个城市主题的T台上战斗。 |
+| **Be Yourself** | All outfits have zero stat bonuses — wear whatever you want. |
+| **Absurdist humour** | Outrageous outfits, bold colours, ridiculous premise. Falling off stage gives bonus points, not penalties. |
+| **Pure Fun** | Two core buttons. Anyone can pick it up and feel the satisfaction immediately. |
 
-### C. 艺术与听觉 (Art & Audio)
+## 3. Core Design & Gameplay (Level 1)
 
-**视觉风格**：Y2K / 90年代电子艺术。灵感源于90年代，融合低像素滤镜与大胆的色彩，营造"老游戏翻新"的视觉冲击力。主角Lisa的模型参考了PS1时代的《古墓丽影》劳拉。关键词：时尚、浮夸、泡沫感、荒谬感。
+### A. Mechanics
 
-**听觉设计**：所有音乐由开发者Sam亲自创作，多为电音舞曲风格，每个场景都有专属主题音乐。UI音效充满趣味（如衣柜按钮是抽屉声，随机按钮是骰子声）。Combo语音由谷歌机翻的合成语音念出，增强了荒谬感。
+| Action | Input | Effect |
+| :--- | :--- | :--- |
+| **Kick** | A button | Powerful, satisfying kick combo |
+| **Pose** | B button | Strike a pose to blow away nearby models |
+| **Combo scoring** | — | More models knocked off at once = higher combo multiplier |
+| **No-penalty falls** | — | Falling off stage is encouraged, not punished |
 
-## 3. 项目背景与状态 (Project Background & Status)
+### B. Features & Content
 
-### A. 开发历史与故事 (Development History & Story)
-
-**灵感来源**：开发者Sam高中时参加"纸服装设计比赛"屡次失败，萌生了"把别人都踢下台就能赢"的荒谬想法。
-
-**诞生过程**：高三暑假的个人Demo项目。unSAME工作室成立后，成员们利用闲暇时间在数年间不断迭代，经历了特效重做、增加地图、移植UE5等重大更新。主要由Sam"一人成军"开发，负责除部分音效/动画外的所有内容。
-
-### B. 里程碑与成就 (Milestones & Achievements)
-
-| 类别 | 内容 |
+| Feature | Description |
 | :--- | :--- |
-| **奖项** | CUSGA 最佳听觉效果奖 & 最佳创意设计奖 |
-| **收录** | 被Super Rare Mixtape Vol.2收录，游戏实体版被保存在英国电子艺术博物馆 |
-| **发售信息** | Steam，预计 2026年4月 |
+| **Protagonist Lisa** | A robot who professionally "crashes runways". |
+| **30+ outfit pieces** | Shirts, pants, hats — mix and match your OOTD freely. |
+| **Global stages** | Paris, Milan, NYC, London, Shenzhen, Tokyo. |
 
-### C. 未来规划 (Future Plans)
+### C. Art & Audio
 
-- **短期**: 针对CUSGA等活动进行易玩性优化和汉化（中文本地化）。
-- **长期**: 如果有机会，希望开发《Runway™》续作，在延续设定的基础上加入更多机制和意义。
+**Visual style:** Y2K / 90s digital art. Low-pixel filter + bold colours. Lisa's model references Lara Croft (PS1 era). Keywords: fashionable, over-the-top, bubbly, absurd.
+
+**Audio:** All music composed by Sam (electronic dance style, stage-specific themes). UI sounds are playful (wardrobe = drawer sound, random = dice sound). Combo voice lines are Google-translated synthetic speech — intentionally absurd.
+
+## 4. Project Background & Status
+
+### A. Origin Story
+
+Inspired by Sam's high school Paper Fashion Show experience — repeated failures led to the thought: "What if I just kicked everyone else off the stage?" Began as a solo demo in Sam's last summer of high school, then grew slowly after unSAME Studio formed. Major updates: VFX overhaul, new maps, port to UE5. Primarily a one-person dev effort by Sam.
+
+### B. Milestones & Achievements
+
+| Category | Item |
+| :--- | :--- |
+| Awards | CUSGA Best Audio Effect & Best Creative Design |
+| Featured | Super Rare Mixtape Vol.2 (physical edition preserved in UK Electronic Arts Museum) |
+| Release | Steam — April 2026 |
+
+### C. Future Plans
+
+- **Short-term:** Accessibility polish and Chinese localisation for CUSGA and similar events.
+- **Long-term:** A Runway™ sequel with expanded mechanics, if the opportunity arises.
+
+### D. Steam Description (copy-ready EN)
+
+> Runway™ is an action game where you can dress up and kick other models off the stage. Play as the fabulous robot Lisa, fight against uninspired models on runways around the world, and be the queen of fashion!
+>
+> Features: Powerful n' satisfying kicking combo actions! · Strike your pose to blow away other models. · Choose your OOTD out of 30+ different shirts, pants, and hats. · Step onto the runways in Paris, Milan, NYC, London, Shenzhen, and Tokyo.

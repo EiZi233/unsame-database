@@ -1,90 +1,96 @@
-# 游戏档案: Gulltastrophe (鸥买嘎)
-# 优先级: 核心设计 (Level 1) > 宣发补充 (Level 2)
+# Game Profile: Gulltastrophe (鸥买嘎)
+> Priority: Core Design (Level 1) > Marketing/Production (Level 2)
 
-## 1. 核心身份与世界观 (Core Identity & Worldview)
+## 1. Core Identity
 
-- **游戏名称**: Gulltastrophe (中文名: 鸥买嘎)
-- **一句话概括**: 一款"海鸥制造混乱"的3D动作沙盒游戏，玩家通过飞行、冲撞与拉屎攻击在岛屿上报复人类。
-- **核心体验**: 轻松、搞怪、带点社会讽刺。
-- **游戏基调**: 幽默 (Humor), 混乱 (Chaos), 恶作剧式玩法 (Prank-style)。
-- **参考作品 (风格基石)**:
-    - 《Untitled Goose Game》 — 扮演动物捣蛋
-    - 《Goat Simulator》 — 物理沙盒与混乱
-    - 《Katamari Damacy》 — 混乱升级感
+| Field | Value |
+| :--- | :--- |
+| **Title (EN)** | Gulltastrophe |
+| **Title (CN)** | 鸥买嘎 |
+| **One-liner (EN)** | A 3D seagull action sandbox — fly, dive-bomb, and poop your way to reclaiming your island from humans. |
+| **One-liner (CN)** | 一款"海鸥制造混乱"的3D动作沙盒游戏，玩家通过飞行、冲撞与拉屎攻击在岛屿上报复人类。 |
+| **Tone** | Humorous, chaotic, lightly satirical |
+| **Keywords** | Humor / Chaos / Environmental satire / Prank-style gameplay |
+| **References** | Untitled Goose Game, Goat Simulator, Katamari Damacy |
 
-## 2. 核心设计与玩法 (In-Game Design & Gameplay)
+## 2. Core Design & Gameplay (Level 1)
 
-### A. 核心机制 (Core Mechanics)
+### A. Core Mechanics
 
-**标志性机制**：吃进去的食物会给粪便带来各种可叠加的奇妙能力。这是主要的攻击和互动方式，既搞笑又令人印象深刻。
+**Signature mechanic:** Food-powered poop abilities (stackable). Eating different foods gives poop different special effects — the primary attack and interaction system.
 
-**互动世界**：
+**World interactivity:**
 - (Almost) everything is interactable!
-- 玩家可以触发各种环境机关和隐藏事件，不断解锁新能力。
-- NPC会对玩家行为作出应对，或许会造成连锁反应。
+- Environmental triggers unlock hidden events and new abilities.
+- NPCs react to player actions and may trigger chain reactions.
 
-### B. 游戏特色 (Features)
+### B. Features
 
-| 特色 | 说明 |
+| Feature | Description |
 | :--- | :--- |
-| **扮演海鸥** | 从海鸥的独特视角体验世界。 |
-| **物理沙盒** | 3个充满惊喜和互动元素的沙盒关卡。 |
-| **多样互动** | 偷窃食物、在人类头上/车上"投弹"、冲撞搞破坏。 |
-| **收集与自定义** | 收集食物和徽章以获得新能力；收集饰品来装扮你的海鸥。 |
-| **专属鸣叫按钮** | A dedicated "Squawk!" button for pure fun.（展现我们的风格：搞怪而无厘头） |
-| **挑战模式** | 提供额外的挑战内容，类似小游戏。 |
+| **Play as a seagull** | Experience the world from a seagull's perspective. |
+| **Physics sandbox** | 3 sandbox levels full of surprises and interactive elements. |
+| **Varied interactions** | Steal food, bomb humans and cars, dive-bomb for destruction. |
+| **Collect & customise** | Collect food and badges for new abilities; accessories to dress up your seagull. |
+| **Squawk! button** | A dedicated Squawk! button for pure fun. (Signature unSAME touch: weird and pointless.) |
+| **Challenge mode** | Extra challenge content, mini-game style. |
 
-### C. 关卡设计 (Level Design)
+### C. Level Design
 
-**设计理念**：主题化 + 模块化。
+**Design philosophy:** Thematic + modular.
 
-| 关卡 | 场景 | 主题概念 | Boss |
+| Level | Setting | Concept | Boss |
 | :--- | :--- | :--- | :--- |
-| 关卡1 | 海滩 | 海滩 + 克苏鲁 / 末日降临 | 包租婆 |
-| 关卡2 | 小镇 | 小镇 + 电影大片 / 东方明珠大战哥斯拉 | 乐队嘉年华 |
-| 关卡3 | 城市 | 城市 + 超自然 / 牛群 vs 外星人 | 总统？！ |
+| Level 1 | Beach | Beach + Cthulhu / Apocalypse | 包租婆 (Landlady) |
+| Level 2 | Town | Town + Blockbuster / Oriental Pearl Tower vs. Godzilla | 乐队嘉年华 (Band Carnival) |
+| Level 3 | City | City + Supernatural / Cattle vs. Aliens | 总统？！(The President?!) |
 
-## 3. 宣发与项目管理 (Go-to-Market & Production)
+## 3. Go-to-Market & Production (Level 2)
 
-### A. 市场定位 (Market Position)
+### A. Market Position
 
-**独特卖点**：新颖视角、标志性机制、互动性混乱、玩法灵活性。
+**USPs:** Novel perspective, signature mechanic, interactive chaos, flexible gameplay.
 
-**文化基因 (Meme Potential)**："海鸥梗"在社交媒体上拥有巨大的天然流量和跨文化传播潜力。从偷薯条到欺负人类，这类视频往往拥有极高的观看量，在年轻群体和网络社区中极具共鸣。
+**Meme potential:** The "seagull meme" has massive organic reach on social media. Seagull-stealing-food videos consistently go viral. Strong cross-cultural resonance with young audiences.
 
-**目标受众**：
+**Target audience:**
 
-| 受众类型 | 描述 |
+| Segment | Description |
 | :--- | :--- |
-| 核心玩家 | 《Katamari Damacy》、《Untitled Goose Game》、《Goat Simulator》的爱好者 |
-| 广泛受众 | 喜欢沙盒探索、轻量化快速游戏、派对氛围的休闲玩家 (PC/Switch) |
-| 潜在用户 | 任何被"海鸥梗"逗笑过，或想体验自由自在扮演海鸥的人 |
+| Core | Fans of Katamari Damacy, Untitled Goose Game, Goat Simulator |
+| Broad | Casual players who enjoy sandbox exploration and party-style games (PC/Switch) |
+| Potential | Anyone who has ever laughed at a seagull meme |
 
-### B. 项目时间线与里程碑 (Timeline & Milestones)
+### B. Timeline & Milestones
 
-- **当前阶段**: Demo阶段 (2025 Q4)
-- **公开Demo发布**: 预计 2026年3月
-- **正式发售窗口**: 预计 2026年第三季度 (Q3)
+| Field | Value |
+| :--- | :--- |
+| **Current stage** | Demo (2025 Q4) |
+| **Public demo** | March 2026 |
+| **Full release** | 2026 Q3 (target) |
+| **Modes** | Single Player + Co-Op |
+| **Length** | 5–6 hour campaign + high replayability |
+| **Platforms** | PC + Switch |
 
-**开发路线图**：
+**Roadmap:**
 
-| 阶段 | 时间 | 核心目标 |
+| Phase | Period | Goal |
 | :--- | :--- | :--- |
-| 阶段一 | 2025 Q4 | 完成核心验证，整理玩家反馈，启动内容生产（招募/外包） |
-| 阶段二 | 2026 Q1 | 主要内容开发迭代，完成30-40%关卡，进行Beta测试，搭建社区 |
-| 阶段三 | 2026 Q2 | Beta测试与上线准备，大规模测试，宣发冲刺 |
-| 阶段四 | 2026 Q3-Q4 | 游戏正式上线，后期支持与数据分析 |
+| Phase 1 | 2025 Q4 | Core validation, player feedback, content production kickoff |
+| Phase 2 | 2026 Q1 | Main content dev, 30–40% levels complete, Beta, community setup |
+| Phase 3 | 2026 Q2 | Beta testing, launch prep, PR sprint |
+| Phase 4 | 2026 Q3–Q4 | Launch, post-launch support, data analysis |
 
-**重要成就**：
+**Awards & events:**
 
-| 类别 | 内容 |
+| Category | Item |
 | :--- | :--- |
-| 奖项 | 抖音青芽创作大赛金奖 |
-| 合作 | Taptap独家合作签约 |
-| 入围/参展 | hi-vision杭州创业大赛决赛、WePlay游戏展/IndiePlay颁奖、米哈游策划大赛、IGF 2026 @GDC、DevGAMM 2025、TGC Game Jam 2026 |
+| Award | 抖音青芽创作大赛金奖 (Douyin Green Shoot Award — Gold) |
+| Partnership | TapTap exclusive partnership |
+| Selection/Events | hi-vision Hangzhou Startup Competition (Finalist), WePlay / IndiePlay, miHoYo Game Design Competition, IGF 2026 @ GDC, DevGAMM 2025, TGC Game Jam 2026 |
 
-### C. 游戏规格 (Specifications)
+### C. Steam Description (copy-ready EN)
 
-- **游戏模式**: 单人模式 (Single Player) + 合作模式 (Co-Op)
-- **游戏时长**: 5-6小时主线流程 + 高度可重玩性
-- **目标平台**: PC 和 Switch
+> Gulltastrophe is a 3D tactical seagull action game where you play as the Seagull. The President of the Whatever Country has announced that they will take over your island and turn it into a vacation spot. To protect your homeland, you must steal their food, poop on their houses, and cause a giant Gulltastrophe! Kick all the humans out and take back your island!
+>
+> Features: A Seagull · Funny humans enjoying their time · 3 Sandbox Levels of Fun, Surprises, and Pooping Actions! · Different foods that give you Special Abilities · A dedicated Squawk! button
