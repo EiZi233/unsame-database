@@ -17,6 +17,7 @@ This is the official content creation knowledge base for unSAME Studio. For any 
 | `game_profile_gulltastrophe.md` | Gulltastrophe (鸥买嘎): core design, levels, go-to-market, timeline | Any task related to Gulltastrophe |
 | `game_profile_runway.md` | Runway™ (秀台™): core design, dev story, art style, milestones | Any task related to Runway™ |
 | `game_profile_plugitin.md` | PLUG IT IN: core design, team, player feedback, Steam plans | Any task related to PLUG IT IN |
+| `company_legal_ops.md` | Legal entity, visa/immigration status of members, financial ops (Puzzle bookkeeping, payroll TBD), corporate structure roadmap | Any task involving legal, tax, payroll, HR, investor relations, or corporate structure |
 
 ---
 
